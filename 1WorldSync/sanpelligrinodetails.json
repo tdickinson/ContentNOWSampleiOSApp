@@ -1,0 +1,1128 @@
+{
+    "responseCode": "S20019",
+    "responseMessage": "Search is successful.",
+    "productDetails": {
+        "_id": {
+            "time": 1371746711000,
+            "new": false,
+            "machine": -408113554,
+            "timeSecond": 1371746711,
+            "inc": 2030645647
+        },
+        "item": {
+            "effectiveDate": "2012-12-17T21:27:55:000Z",
+            "lastModifiedDate": "2014-05-16T17:46:30:461Z",
+            "lastPublishedDate": "2013-06-13T15:20:35:916Z",
+            "productName": {
+                "values": [
+                    {
+                        "value": "San Pellegrino Blood Orange Sparkling Juice Beverage - 6 CT",
+                        "language": "en"
+                    }
+                ],
+                "languageDefinition": "languageDefinition"
+            },
+            "gtinName": {
+                "values": [
+                    {
+                        "value": "UA CA 1 Gtin Name",
+                        "language": "en"
+                    }
+                ],
+                "languageDefinition": "languageDefinition"
+            },
+            "productDescription": {
+                "values": [
+                    {
+                        "value": "San Pellegrino Blood Orange Sparkling Juice Beverage. Contains 16% juice. Italian sparkling orange beverage from concentrate. All natural ingredients. Sparkling blood orange beverage with 13% orange juice and 3% blood orange juice from concentrate with other natural flavors. 6 x 330 ml cans (1.98 L). 6-11.15 fl oz (330ml) cans (66.9 fl oz [2 qt, 2.9 fl oz][1.98 L] total)",
+                        "language": "en"
+                    }
+                ],
+                "languageDefinition": "languageDefinition"
+            },
+            "brandName": "San Pellegrino",
+            "imageInformation": [
+                {
+                    "uniformResourceIdentifier": "https://s3.amazonaws.com/ng-preprod/25/US/GTIN00067112010679/36d90e32-48e1-4b2c-8ebf-c4fd1099a836.jpg",
+                    "uniformResourceIdentifierType": {
+                        "value": "1SYNC Hosted Image",
+                        "valueDefinition": "uniformResourceIdentifierTypeDefinition"
+                    },
+                    "linkFileName": "36d90e32-48e1-4b2c-8ebf-c4fd1099a836.jpg",
+                    "imageDimension": "1800 x 1350",
+                    "imageSizeCategory": {
+                        "value": "HIGH",
+                        "valueDefinition": "imageSizeCategoryDefinition"
+                    },
+                    "fileSize": {
+                        "values": [
+                            {
+                                "value": "2376847"
+                            }
+                        ],
+                        "valueDefinition": "fileSizeUOMDefinition"
+                    },
+                    "fileFormatName": "jpeg",
+                    "fileFormatDescription": {
+                        "values": [
+                            {
+                                "value": "Joint Photographic Experts Group",
+                                "language": "en"
+                            }
+                        ],
+                        "languageDefinition": "languageDefinition"
+                    },
+                    "fileEffectiveStartDate": "2013-06-10 06:12:00.547",
+                    "thumbnailFileName": "36d90e32-48e1-4b2c-8ebf-c4fd1099a836_TH.jpg",
+                    "thumbnailURI": "https://s3.amazonaws.com/ng-preprod/25/US/GTIN00067112010679/36d90e32-48e1-4b2c-8ebf-c4fd1099a836_TH.jpg",
+                    "thumbnailDimension": "140 x 105",
+                    "thumbnailFileSize": {
+                        "value": "4347",
+                        "qual": "B",
+                        "qualDefinition": "fileSizeUOMDefinition"
+                    },
+                    "defaultImage": "Y"
+                }
+            ],
+            "brandOwner": {
+                "brandOwnerType": {
+                    "value": "GLN",
+                    "valueDefinition": "partyIdDefinition"
+                },
+                "brandOwnerId": "0614141735204",
+                "brandOwnerName": "PP IM NG PDM  Supplier 20"
+            },
+            "productCategory": {
+                "brickCode": "10000201",
+                "brickDescription": "Drinks Flavoured – Ready to Drink",
+                "classCode": "50202300",
+                "classDescription": "Non Alcoholic Beverages – Ready to Drink",
+                "familyCode": "50200000",
+                "familyDescription": "Beverages",
+                "segmentCode": "50000000",
+                "segmentDescription": "Food/Beverage/Tobacco"
+            },
+            "foodAndBeverageMarketingInformation": {
+                "servingSuggestion": {
+                    "values": [
+                        {
+                            "value": "serving Suggestion health Claim -en",
+                            "language": "en"
+                        }
+                    ],
+                    "languageDefinition": "languageDefinition"
+                }
+            },
+            "foodAndBeverageServingInformation": {
+                "numberOfServingsPerPackage": "222"
+            },
+            "foodAndBeveragePreparationInfo": [
+                {
+                    "preparationType": {
+                        "value": "BARBECUING",
+                        "valueDefinition": "preparationTypeDefinition"
+                    },
+                    "preparationInstructions": {
+                        "values": [
+                            {
+                                "value": "preparationInstructions 3en",
+                                "language": "en"
+                            }
+                        ],
+                        "languageDefinition": "languageDefinition"
+                    }
+                },
+                {
+                    "preparationType": {
+                        "value": "BAKING",
+                        "valueDefinition": "preparationTypeDefinition"
+                    },
+                    "preparationInstructions": {
+                        "values": [
+                            {
+                                "value": "preparationInstructions 1en",
+                                "language": "en"
+                            }
+                        ],
+                        "languageDefinition": "languageDefinition"
+                    }
+                }
+            ],
+            "foodAndBevAllergens": [
+                {
+                    "allergenTypeCode": {
+                        "value": "AM",
+                        "valueDefinition": "allergenTypeCodeDefinition"
+                    },
+                    "levelOfContainment": {
+                        "value": "FREE_FROM",
+                        "valueDefinition": "levelOfContainmentDefinition"
+                    },
+                    "allergenSpecificationAgency": "Free from",
+                    "allergenSpecificationName": "Free from"
+                },
+                {
+                    "allergenTypeCode": {
+                        "value": "AP",
+                        "valueDefinition": "allergenTypeCodeDefinition"
+                    },
+                    "levelOfContainment": {
+                        "value": "FREE_FROM",
+                        "valueDefinition": "levelOfContainmentDefinition"
+                    },
+                    "allergenSpecificationAgency": "Free from",
+                    "allergenSpecificationName": "Free from"
+                },
+                {
+                    "allergenTypeCode": {
+                        "value": "AS",
+                        "valueDefinition": "allergenTypeCodeDefinition"
+                    },
+                    "levelOfContainment": {
+                        "value": "FREE_FROM",
+                        "valueDefinition": "levelOfContainmentDefinition"
+                    },
+                    "allergenSpecificationAgency": "Free from",
+                    "allergenSpecificationName": "Free from"
+                },
+                {
+                    "allergenTypeCode": {
+                        "value": "AY",
+                        "valueDefinition": "allergenTypeCodeDefinition"
+                    },
+                    "levelOfContainment": {
+                        "value": "FREE_FROM",
+                        "valueDefinition": "levelOfContainmentDefinition"
+                    },
+                    "allergenSpecificationAgency": "Free from",
+                    "allergenSpecificationName": "Free from"
+                },
+                {
+                    "allergenTypeCode": {
+                        "value": "AN",
+                        "valueDefinition": "allergenTypeCodeDefinition"
+                    },
+                    "levelOfContainment": {
+                        "value": "FREE_FROM",
+                        "valueDefinition": "levelOfContainmentDefinition"
+                    },
+                    "allergenSpecificationAgency": "Free from",
+                    "allergenSpecificationName": "Free from"
+                },
+                {
+                    "allergenTypeCode": {
+                        "value": "UW",
+                        "valueDefinition": "allergenTypeCodeDefinition"
+                    },
+                    "levelOfContainment": {
+                        "value": "FREE_FROM",
+                        "valueDefinition": "levelOfContainmentDefinition"
+                    },
+                    "allergenSpecificationAgency": "Free from",
+                    "allergenSpecificationName": "Free from"
+                },
+                {
+                    "allergenTypeCode": {
+                        "value": "AC",
+                        "valueDefinition": "allergenTypeCodeDefinition"
+                    },
+                    "levelOfContainment": {
+                        "value": "FREE_FROM",
+                        "valueDefinition": "levelOfContainmentDefinition"
+                    },
+                    "allergenSpecificationAgency": "Free from",
+                    "allergenSpecificationName": "Free from"
+                },
+                {
+                    "allergenTypeCode": {
+                        "value": "AE",
+                        "valueDefinition": "allergenTypeCodeDefinition"
+                    },
+                    "levelOfContainment": {
+                        "value": "FREE_FROM",
+                        "valueDefinition": "levelOfContainmentDefinition"
+                    },
+                    "allergenSpecificationAgency": "Free from",
+                    "allergenSpecificationName": "Free from"
+                },
+                {
+                    "allergenTypeCode": {
+                        "value": "AF",
+                        "valueDefinition": "allergenTypeCodeDefinition"
+                    },
+                    "levelOfContainment": {
+                        "value": "FREE_FROM",
+                        "valueDefinition": "levelOfContainmentDefinition"
+                    },
+                    "allergenSpecificationAgency": "Free from",
+                    "allergenSpecificationName": "Free from"
+                }
+            ],
+            "foodAndBeverageIngredientInfo": {
+                "ingredientStatement": {
+                    "values": [
+                        {
+                            "value": "Ingredients: Water, Sugar, Orange Juice from Concentrate, Blood Orange Juice from Concentrate, Carbon Dioxide, Natural Flavors, Black Carrot and Paprika (For Color), Citric Acid.",
+                            "language": "en"
+                        },
+                        {
+                            "value": "ingredients List CA 2-es",
+                            "language": "es"
+                        }
+                    ],
+                    "languageDefinition": "languageDefinition"
+                },
+                "foodAndBeverageIngredient": [
+                    {
+                        "ingredientSequence": "2",
+                        "ingredientName": {
+                            "values": [
+                                {
+                                    "value": "Sugar",
+                                    "language": "en"
+                                }
+                            ],
+                            "languageDefinition": "languageDefinition"
+                        },
+                        "ingredientCountryOfOrigin": {
+                            "value": [
+                                "IT"
+                            ],
+                            "valueDefinition": "countryDefinition"
+                        }
+                    },
+                    {
+                        "ingredientSequence": "3",
+                        "ingredientName": {
+                            "values": [
+                                {
+                                    "value": "Orange Juice from Concentrate",
+                                    "language": "en"
+                                }
+                            ],
+                            "languageDefinition": "languageDefinition"
+                        },
+                        "ingredientCountryOfOrigin": {
+                            "value": [
+                                "IT"
+                            ],
+                            "valueDefinition": "countryDefinition"
+                        }
+                    },
+                    {
+                        "ingredientSequence": "4",
+                        "ingredientName": {
+                            "values": [
+                                {
+                                    "value": "Blood Orange Juice from Concentrate",
+                                    "language": "en"
+                                }
+                            ],
+                            "languageDefinition": "languageDefinition"
+                        },
+                        "ingredientCountryOfOrigin": {
+                            "value": [
+                                "IT"
+                            ],
+                            "valueDefinition": "countryDefinition"
+                        }
+                    },
+                    {
+                        "ingredientSequence": "5",
+                        "ingredientName": {
+                            "values": [
+                                {
+                                    "value": "Carbon Dioxide",
+                                    "language": "en"
+                                }
+                            ],
+                            "languageDefinition": "languageDefinition"
+                        },
+                        "ingredientCountryOfOrigin": {
+                            "value": [
+                                "IT"
+                            ],
+                            "valueDefinition": "countryDefinition"
+                        }
+                    },
+                    {
+                        "ingredientSequence": "6",
+                        "ingredientName": {
+                            "values": [
+                                {
+                                    "value": "Natural Flavors",
+                                    "language": "en"
+                                }
+                            ],
+                            "languageDefinition": "languageDefinition"
+                        },
+                        "ingredientCountryOfOrigin": {
+                            "value": [
+                                "IT"
+                            ],
+                            "valueDefinition": "countryDefinition"
+                        }
+                    },
+                    {
+                        "ingredientSequence": "7",
+                        "ingredientName": {
+                            "values": [
+                                {
+                                    "value": "Black Carrot and Paprika (For Color)",
+                                    "language": "en"
+                                }
+                            ],
+                            "languageDefinition": "languageDefinition"
+                        },
+                        "ingredientCountryOfOrigin": {
+                            "value": [
+                                "IT"
+                            ],
+                            "valueDefinition": "countryDefinition"
+                        }
+                    },
+                    {
+                        "ingredientSequence": "8",
+                        "ingredientName": {
+                            "values": [
+                                {
+                                    "value": "Citric Acid",
+                                    "language": "en"
+                                }
+                            ],
+                            "languageDefinition": "languageDefinition"
+                        },
+                        "ingredientCountryOfOrigin": {
+                            "value": [
+                                "IT"
+                            ],
+                            "valueDefinition": "countryDefinition"
+                        }
+                    }
+                ]
+            },
+            "msrp": {
+                "suggestedRetailPrice": {
+                    "value": "20",
+                    "qual": "USD",
+                    "qualDefinition": "currencyDefinition"
+                },
+                "suggestedRetailPriceBasisPerUnit": {
+                    "value": "1",
+                    "qual": "1N",
+                    "qualDefinition": "uomDefinition"
+                }
+            },
+            "countryOfOrigin": {
+                "value": [
+                    "IT"
+                ],
+                "valueDefinition": "countryDefinition"
+            },
+            "netContent": {
+                "values": [
+                    {
+                        "value": "3",
+                        "qual": "BR"
+                    }
+                ],
+                "qualDefinition": "netContentDefinition"
+            },
+            "height": {
+                "values": [
+                    {
+                        "value": "5.0",
+                        "qual": "CM"
+                    }
+                ],
+                "qualDefinition": "dimensionDefinition"
+            },
+            "width": {
+                "values": [
+                    {
+                        "value": "5.0",
+                        "qual": "CM"
+                    }
+                ],
+                "qualDefinition": "dimensionDefinition"
+            },
+            "depth": {
+                "values": [
+                    {
+                        "value": "5.0",
+                        "qual": "CM"
+                    }
+                ],
+                "qualDefinition": "dimensionDefinition"
+            },
+            "grossWeight": {
+                "values": [
+                    {
+                        "value": "10.0",
+                        "qual": "KG"
+                    }
+                ],
+                "qualDefinition": "netContentDefinition"
+            },
+            "foodAndBevDietTypeInfo": [
+                {
+                    "dietTypeCode": {
+                        "value": "VEGAN",
+                        "valueDefinition": "dietTypeCodeDefinition"
+                    }
+                },
+                {
+                    "dietTypeCode": {
+                        "value": "KOSHER",
+                        "valueDefinition": "dietTypeCodeDefinition"
+                    },
+                    "dietTypeSubcode": {
+                        "value": "OU",
+                        "valueDefinition": "dietTypeSubcodeDefinition"
+                    }
+                }
+            ],
+            "digitalId": "http://digitalid.preprod.1worldsync.com/US/00067112010679",
+            "itemIdentificationInformation": {
+                "itemIdInformation": [
+                    {
+                        "itemId": "00067112010679",
+                        "itemIdType": {
+                            "value": "GTIN",
+                            "valueDefinition": "itemIdTypeDefinition"
+                        },
+                        "isPrimary": "TRUE"
+                    },
+                    {
+                        "itemId": "041508300360",
+                        "itemIdType": {
+                            "value": "UD",
+                            "valueDefinition": "itemIdTypeDefinition"
+                        },
+                        "isPrimary": "FALSE"
+                    }
+                ],
+                "informationProvider": {
+                    "informationProviderId": "0614141735204",
+                    "informationProviderType": {
+                        "value": "GLN",
+                        "valueDefinition": "partyIdDefinition"
+                    },
+                    "informationProviderName": "PP IM NG PDM  Supplier 20",
+                    "isPrimary": "TRUE"
+                },
+                "targetMarket": {
+                    "value": "US",
+                    "valueDefinition": "countryDefinition"
+                },
+                "itemReferenceIdInformation": {
+                    "itemReferenceId": "nKWzRo"
+                }
+            },
+            "foodAndBevNutrientInfo": [
+                {
+                    "preparationState": "UNPREPARED",
+                    "servingSize": {
+                        "values": [
+                            {
+                                "value": "0.2",
+                                "qual": "1N"
+                            }
+                        ],
+                        "qualDefinition": "uomDefinition"
+                    },
+                    "householdServingSize": {
+                        "values": [
+                            {
+                                "value": "householdServingSize PL 3-en",
+                                "language": "en"
+                            }
+                        ],
+                        "languageDefinition": "languageDefinition"
+                    },
+                    "foodAndBeverageNutrient": [
+                        {
+                            "nutrientTypeCode": {
+                                "value": "ENER-",
+                                "valueDefinition": "nutrientTypeCodeDefinition"
+                            },
+                            "measurementPrecision": {
+                                "value": "EXACT",
+                                "valueDefinition": "measurementPrecisionDefinition"
+                            },
+                            "percentageOfDailyValueIntake": "0.2",
+                            "nutrientQuantityContained": {
+                                "values": [
+                                    {
+                                        "value": "0.2",
+                                        "qual": "F2"
+                                    }
+                                ],
+                                "qualDefinition": "nutrientQuanitytContainedDefinition"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "preparationState": "PREPARED",
+                    "servingSize": {
+                        "values": [
+                            {
+                                "value": "0.1",
+                                "qual": "15"
+                            }
+                        ],
+                        "qualDefinition": "uomDefinition"
+                    },
+                    "householdServingSize": {
+                        "values": [
+                            {
+                                "value": "householdServingSize PL 1-en",
+                                "language": "en"
+                            }
+                        ],
+                        "languageDefinition": "languageDefinition"
+                    },
+                    "foodAndBeverageNutrient": [
+                        {
+                            "nutrientTypeCode": {
+                                "value": "CHO-",
+                                "valueDefinition": "nutrientTypeCodeDefinition"
+                            },
+                            "measurementPrecision": {
+                                "value": "APPROXIMATELY",
+                                "valueDefinition": "measurementPrecisionDefinition"
+                            },
+                            "percentageOfDailyValueIntake": "0.1",
+                            "nutrientQuantityContained": {
+                                "values": [
+                                    {
+                                        "value": "0.1",
+                                        "qual": "CAL"
+                                    }
+                                ],
+                                "qualDefinition": "nutrientQuanitytContainedDefinition"
+                            }
+                        },
+                        {
+                            "nutrientTypeCode": {
+                                "value": "ENER-",
+                                "valueDefinition": "nutrientTypeCodeDefinition"
+                            },
+                            "measurementPrecision": {
+                                "value": "EXACT",
+                                "valueDefinition": "measurementPrecisionDefinition"
+                            },
+                            "nutrientQuantityContained": {
+                                "values": [
+                                    {
+                                        "value": "130",
+                                        "qual": "C18"
+                                    }
+                                ],
+                                "qualDefinition": "nutrientQuanitytContainedDefinition"
+                            }
+                        },
+                        {
+                            "nutrientTypeCode": {
+                                "value": "ENERPF",
+                                "valueDefinition": "nutrientTypeCodeDefinition"
+                            },
+                            "measurementPrecision": {
+                                "value": "EXACT",
+                                "valueDefinition": "measurementPrecisionDefinition"
+                            },
+                            "nutrientQuantityContained": {
+                                "values": [
+                                    {
+                                        "value": "0",
+                                        "qual": "MC"
+                                    }
+                                ],
+                                "qualDefinition": "nutrientQuanitytContainedDefinition"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "itemDefinitions": {
+                "definitions": [
+                    {
+                        "name": "uomDefinition",
+                        "type": "QUAL",
+                        "values": [
+                            {
+                                "code": "1N",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Count"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "15",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Stick"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "measurementPrecisionDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "EXACT",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Exact"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "APPROXIMATELY",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Approximately"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "levelOfContainmentDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "FREE_FROM",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Free from"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "uniformResourceIdentifierTypeDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "1SYNC HOSTED IMAGE",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "1SYNC Hosted Image"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "languageDefinition",
+                        "type": "LANGUAGE",
+                        "values": [
+                            {
+                                "code": "en",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "English"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "es",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Spanish"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "netContentDefinition",
+                        "type": "QUAL",
+                        "values": [
+                            {
+                                "code": "BR",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Barrel"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "KG",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Kilogram"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "preparationTypeDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "BARBECUING",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Barbecuing"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "BAKING",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Baking"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "imageSizeCategoryDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "HIGH",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "HIGH"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "itemIdTypeDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "GTIN",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Global Trade Item Number"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "UD",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "UPC/EAN Consumer Package Code (2-5-5)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "nutrientTypeCodeDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "ENER-",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Calories"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "CHO-",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Total Carbohydrate"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "ENERPF",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Calories from Fat"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "partyIdDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "GLN",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Global Location Number"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "dietTypeSubcodeDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "OU",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Kosher food product certified by the orthodox union  (www.ou.org)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "nutrientQuanitytContainedDefinition",
+                        "type": "QUAL",
+                        "values": [
+                            {
+                                "code": "F2",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "International Units"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "CAL",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Calorie"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "C18",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "1/1000 part of a mole"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "MC",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Microgram"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "countryDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "US",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "United States"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "IT",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Italy"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "dimensionDefinition",
+                        "type": "QUAL",
+                        "values": [
+                            {
+                                "code": "CM",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Centimeters"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "fileSizeUOMDefinition",
+                        "type": "QUAL",
+                        "values": [
+                            {
+                                "code": "B",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Byte"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "dietTypeCodeDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "VEGAN",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Vegan"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "KOSHER",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Kosher"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "allergenTypeCodeDefinition",
+                        "type": "VALUE",
+                        "values": [
+                            {
+                                "code": "AM",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Milk and its derivates"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "AP",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Peanuts and their derivates"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "AS",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Sesame Seeds and their derivates"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "AY",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Soybeans and their derivates"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "AN",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Nuts and their derivates"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "UW",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Wheat and it's derivates"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "AC",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Crustaceans and their derivates"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "AE",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Eggs and their derivates"
+                                    }
+                                ]
+                            },
+                            {
+                                "code": "AF",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "Fish and their derivates"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "currencyDefinition",
+                        "type": "QUAL",
+                        "values": [
+                            {
+                                "code": "USD",
+                                "languageValues": [
+                                    {
+                                        "language": "en",
+                                        "description": "United States of America, Dollars"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
